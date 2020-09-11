@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - StringTokens",
+            "request": "launch",
+            "mainClass": "strings.StringTokens",
+            "projectName": "hackerrank-java-erbe_dbe7235f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Anagrams",
+            "request": "launch",
+            "mainClass": "strings.Anagrams",
+            "projectName": "hackerrank-java-erbe_dbe7235f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringReverse",
+            "request": "launch",
+            "mainClass": "strings.StringReverse",
+            "projectName": "hackerrank-java-erbe_dbe7235f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SubstringCompare",
+            "request": "launch",
+            "mainClass": "strings.SubstringCompare",
+            "projectName": "hackerrank-java-erbe_dbe7235f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Substring",
+            "request": "launch",
+            "mainClass": "strings.Substring",
+            "projectName": "hackerrank-java-erbe_dbe7235f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringsIntroduction",
+            "request": "launch",
+            "mainClass": "strings.StringsIntroduction",
+            "projectName": "hackerrank-java-erbe_dbe7235f"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Datetime",
             "request": "launch",
             "mainClass": "introduction.Datetime",
