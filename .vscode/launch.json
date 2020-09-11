@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Datetime",
+            "request": "launch",
+            "mainClass": "introduction.Datetime",
+            "projectName": "hackerrank-java-erbe_dbe7235f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Initblock",
+            "request": "launch",
+            "mainClass": "introduction.Initblock",
+            "projectName": "hackerrank-java-erbe_dbe7235f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Endoffile",
+            "request": "launch",
+            "mainClass": "introduction.Endoffile",
+            "projectName": "hackerrank-java-erbe_dbe7235f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Datatypes",
+            "request": "launch",
+            "mainClass": "introduction.Datatypes",
+            "projectName": "hackerrank-java-erbe_dbe7235f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Loop2",
+            "request": "launch",
+            "mainClass": "introduction.Loop2",
+            "projectName": "hackerrank-java-erbe_dbe7235f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Loop1",
+            "request": "launch",
+            "mainClass": "introduction.Loop1",
+            "projectName": "hackerrank-java-erbe_dbe7235f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OutputFormat",
+            "request": "launch",
+            "mainClass": "introduction.OutputFormat",
+            "projectName": "hackerrank-java-erbe_dbe7235f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ifelse",
+            "request": "launch",
+            "mainClass": "introduction.Ifelse",
+            "projectName": "hackerrank-java-erbe_dbe7235f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Std2",
+            "request": "launch",
+            "mainClass": "introduction.Std2",
+            "projectName": "hackerrank-java-erbe_dbe7235f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Std1",
+            "request": "launch",
+            "mainClass": "introduction.Std1",
+            "projectName": "hackerrank-java-erbe_dbe7235f"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Welcome",
+            "request": "launch",
+            "mainClass": "introduction.Welcome",
+            "projectName": "hackerrank-java-erbe_dbe7235f"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
